@@ -1,4 +1,8 @@
+https://juliangibelli.github.io/FrontendMentor_qr_code/
 # Frontend Mentor - QR code component
+
+
+
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
